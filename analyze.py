@@ -83,7 +83,10 @@ def get_stats(data):
   stats['average_neg_score'] = sum_neg_score/stats['num_negative']
   stats['average_score'] = sum_score/total
 
-  pprint(stats)
+def print_to_file(data, filename='output.txt'):
+  with open(filename, 'w') as f:
+    for d in data:
+      f.write(d[0] + ' (' + str(d[1]) + ') ' + '\n')
 
 def main():
   path = 'logs/candy.log'
@@ -91,6 +94,7 @@ def main():
       path = sys.argv[1]
   pos_data, neg_data, data = load_data(path)
   get_stats(data)
+  print_to_file(data)
   make_word_cloud(data)
 
 if __name__ == '__main__':
