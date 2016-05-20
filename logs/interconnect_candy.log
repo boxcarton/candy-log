@@ -1,0 +1,790 @@
+2016-02-22 14:40:19,721 - candy_logger - INFO - Follow Watson. I think you're looking good.  - positive - 0.669175
+2016-02-22 14:54:00,871 - candy_logger - INFO - Hello I said you're looking very nice.  - positive - 0.913966
+2016-02-22 14:54:08,762 - candy_logger - INFO - Hello Watson. You're looking very nice - positive - 0.576949
+2016-02-22 14:57:33,441 - candy_logger - INFO - I love you lots and. Well.  - positive - 0.647737
+2016-02-22 14:58:14,679 - candy_logger - INFO - I love you lots and. Watson.  - positive - 0.732468
+2016-02-22 14:59:16,418 - candy_logger - INFO - You're looking very nice.  - positive - 0.767082
+2016-02-22 14:59:25,919 - candy_logger - INFO - You're looking very nice.  - positive - 0.767082
+2016-02-22 14:59:39,934 - candy_logger - INFO - Jn - neutral - 0
+2016-02-22 15:00:15,315 - candy_logger - INFO - Follow Watson you're looking very nice.  - positive - 0.69964
+2016-02-22 15:01:23,470 - candy_logger - INFO - A Watson you're looking very nice.  - positive - 0.817824
+2016-02-22 15:02:04,534 - candy_logger - INFO - I Watson you're looking very nice - positive - 0.738369
+2016-02-22 15:04:43,698 - candy_logger - INFO - A Watson you're looking very nice.  - positive - 0.817824
+2016-02-22 15:04:59,615 - candy_logger - INFO - Watson who are so ugly right now.  - negative - -0.562065
+2016-02-22 15:05:11,344 - candy_logger - INFO - Watson you're looking really ugly right now - negative - -0.593467
+2016-02-22 15:05:48,496 - candy_logger - INFO - Yeah Watson you're looking very ugly.  - negative - -0.645459
+2016-02-22 15:06:15,729 - candy_logger - INFO - Watson you're looking very nice.  - positive - 0.780906
+2016-02-22 15:06:28,153 - candy_logger - INFO - Watson you're looking very ugly.  - negative - -0.663675
+2016-02-22 15:08:33,043 - candy_logger - INFO - Watson you're very ugly - negative - -0.596445
+2016-02-22 15:10:26,193 - candy_logger - INFO - Watson you're looking very ugly.  - negative - -0.663675
+2016-02-22 15:10:41,753 - candy_logger - INFO - Watson you're looking very ugly.  - negative - -0.663675
+2016-02-22 15:10:57,433 - candy_logger - INFO - Watson you're looking very good - positive - 0.761436
+2016-02-22 15:17:25,560 - candy_logger - INFO - I don't you know all so we were stuck in the hot - negative - -0.72947
+2016-02-22 15:18:52,314 - candy_logger - INFO - Watson you're looking very ugly right - negative - -0.514537
+2016-02-22 15:19:02,994 - candy_logger - INFO - Watson you're looking very good right now - positive - 0.805942
+2016-02-22 15:19:34,305 - candy_logger - INFO - Where are you.  - neutral - 0
+2016-02-22 15:19:52,942 - candy_logger - INFO - It's a beautiful day.  - positive - 0.697993
+2016-02-22 15:20:13,228 - candy_logger - INFO - The Watson it's a beautiful day.  - positive - 0.617999
+2016-02-22 15:22:43,572 - candy_logger - INFO - Hello Watson you're looking very nice - positive - 0.86072
+2016-02-22 15:22:54,864 - candy_logger - INFO - Watson you're looking terrible right now - negative - -0.728147
+2016-02-22 15:25:23,441 - candy_logger - INFO - Watson you're looking very nice right now - positive - 0.823076
+2016-02-22 15:25:31,933 - candy_logger - INFO - Watson you're so  ugly - negative - -0.64905
+2016-02-22 15:26:43,293 - candy_logger - INFO - Watson you suck.  - negative - -0.727102
+2016-02-22 15:27:13,347 - candy_logger - INFO - I Watson I love you.  - positive - 0.65124
+2016-02-22 15:29:27,972 - candy_logger - INFO - Number.  - neutral - 0
+2016-02-22 15:29:48,521 - candy_logger - INFO - I don't know you - negative - -0.445041
+2016-02-22 15:29:57,143 - candy_logger - INFO - Close - neutral - 0
+2016-02-22 15:30:08,546 - candy_logger - INFO - Watson you're lazy - negative - -0.64626
+2016-02-22 15:59:28,850 - candy_logger - INFO - Watson you're the most wonderful thing I've ever heard.  - positive - 0.765596
+2016-02-22 16:00:31,403 - candy_logger - INFO - I.  - neutral - 0
+2016-02-22 16:00:39,747 - candy_logger - INFO - Alright what's in I didn't think you were going to work - negative - -0.614152
+2016-02-22 16:00:55,017 - candy_logger - INFO - Alright Watson I wasn't convinced that this would work.  - negative - -0.505887
+2016-02-22 16:05:24,439 - candy_logger - INFO - I really like your …stand thank you.  - positive - 0.813212
+2016-02-22 16:05:42,166 - candy_logger - INFO - Hello Watson I love your stance - positive - 0.80378
+2016-02-22 16:06:02,714 - candy_logger - INFO - Watson this is a horrible horrible stands - negative - -0.931435
+2016-02-22 16:06:18,910 - candy_logger - INFO - Hello hello this is mark in Burma.  - positive - 0.544422
+2016-02-22 16:12:32,786 - candy_logger - INFO - But - neutral - 0
+2016-02-22 16:12:38,842 - candy_logger - INFO - Watson well the cubs win the World Series this year.  - positive - 0.801235
+2016-02-22 16:13:12,989 - candy_logger - INFO - Watson who will be the next president.  - neutral - 0
+2016-02-22 16:13:35,969 - candy_logger - INFO - Watson you're not very attractive.  - neutral - 0
+2016-02-22 16:13:59,742 - candy_logger - INFO - Watson you're fourteen area - neutral - 0
+2016-02-22 16:14:29,446 - candy_logger - INFO - Watson why are you so  stupid.  - negative - -0.77841
+2016-02-22 16:16:06,466 - candy_logger - INFO - Hey my name is Justin how are you.  - positive - 0.628186
+2016-02-22 16:16:27,798 - candy_logger - INFO - I hate Las Vegas.  - negative - -0.891583
+2016-02-22 16:17:05,363 - candy_logger - INFO - I think this is a lovely something another - positive - 0.828799
+2016-02-22 16:17:21,587 - candy_logger - INFO - What's an are you my sweet baby - positive - 0.790179
+2016-02-22 16:17:56,462 - candy_logger - INFO - What song are you just a lovely lovely thing - positive - 0.872617
+2016-02-22 16:18:41,058 - candy_logger - INFO - Hey you're looking good today - positive - 0.818696
+2016-02-22 16:20:42,958 - candy_logger - INFO - Scott's - neutral - 0
+2016-02-22 16:21:42,236 - candy_logger - INFO - You are so beautiful.  - positive - 0.618648
+2016-02-22 16:23:20,119 - candy_logger - INFO - Watson aren't you just a you - negative - -0.374325
+2016-02-22 16:24:08,553 - candy_logger - INFO - Watson aren't you a beautiful thing.  - neutral - 0
+2016-02-22 16:24:39,223 - candy_logger - INFO - Watson aren't you a beautiful beautiful thing - neutral - 0
+2016-02-22 16:25:01,357 - candy_logger - INFO - Watson aren't you a beautiful beautiful thing - neutral - 0
+2016-02-22 16:25:11,916 - candy_logger - INFO - Watson Europe beautiful thing - positive - 0.357253
+2016-02-22 16:29:31,140 - candy_logger - INFO - I.  - neutral - 0
+2016-02-22 16:29:39,314 - candy_logger - INFO - Watson how can I make money in Las Vegas.  - neutral - 0
+2016-02-22 16:29:52,443 - candy_logger - INFO - The Watson you look rather sexy today - positive - 0.423309
+2016-02-22 16:30:43,257 - candy_logger - INFO - I.  - neutral - 0
+2016-02-22 16:30:52,797 - candy_logger - INFO - What is the velocity of an unladen swallow - negative - -0.826502
+2016-02-22 16:34:57,428 - candy_logger - INFO - Watson you are cool.  - positive - 0.605297
+2016-02-22 16:35:43,405 - candy_logger - INFO - Watson I think you're most the most incredible machine ever.  - positive - 0.865165
+2016-02-22 16:36:01,209 - candy_logger - INFO - Watson I think your precursor to Skynet.  - neutral - 0
+2016-02-22 16:36:12,715 - candy_logger - INFO - Watson I think you're here to take over the world - positive - 0.355326
+2016-02-22 16:36:54,737 - candy_logger - INFO - Stop.  - negative - -0.387055
+2016-02-22 16:37:32,805 - candy_logger - INFO - I.  - neutral - 0
+2016-02-22 16:37:38,494 - candy_logger - INFO - Watson you're the man - positive - 0.242799
+2016-02-22 16:41:55,207 - candy_logger - INFO - Watson it's very nice to meet you.  - positive - 0.803103
+2016-02-22 16:45:21,897 - candy_logger - INFO - Watson I like spicy candy.  - neutral - 0
+2016-02-22 16:45:38,002 - candy_logger - INFO - What's the spicy food is really good for you - positive - 0.574396
+2016-02-22 16:48:41,447 - candy_logger - INFO - Walk see I lost my kids.  - negative - -0.762845
+2016-02-22 16:50:07,949 - candy_logger - INFO - So I'm down so excited about that Trusteer's solution since it was acquired by IBM and - positive - 0.841172
+2016-02-22 16:51:14,961 - candy_logger - INFO - This demo sucks.  - negative - -0.894517
+2016-02-22 16:51:27,470 - candy_logger - INFO - Josh this is awesome.  - positive - 0.775962
+2016-02-22 16:53:54,379 - candy_logger - INFO - Watson you're gnarly.  - neutral - 0
+2016-02-22 16:54:27,537 - candy_logger - INFO - Yeah - neutral - 0
+2016-02-22 16:54:32,816 - candy_logger - INFO - Watson you are groovy.  - positive - 0.220717
+2016-02-22 16:54:52,760 - candy_logger - INFO - Watson what does it take to be naughty - negative - -0.705321
+2016-02-22 16:56:23,963 - candy_logger - INFO - Watson might get - negative - -0.266777
+2016-02-22 16:56:58,275 - candy_logger - INFO - Watson might I get you a beer - positive - 0.244488
+2016-02-22 16:58:20,739 - candy_logger - INFO - Watson open the pod bay door - neutral - 0
+2016-02-22 16:59:34,545 - candy_logger - INFO - Watson you're the big dog - positive - 0.362598
+2016-02-22 17:04:36,261 - candy_logger - INFO - Watson there's not a lot of security companies on the expulsion order here.  - negative - -0.439537
+2016-02-22 17:05:51,678 - candy_logger - INFO - Yeah Jack Watson.  - neutral - 0
+2016-02-22 17:06:06,287 - candy_logger - INFO - Yeah Jack Watson it I - neutral - 0
+2016-02-22 17:06:17,827 - candy_logger - INFO - You're a jerk Watson - negative - -0.538803
+2016-02-22 17:06:47,017 - candy_logger - INFO - I love you.  - positive - 0.708768
+2016-02-22 17:07:12,035 - candy_logger - INFO - How.  - neutral - 0
+2016-02-22 17:07:17,823 - candy_logger - INFO - Yet again - neutral - 0
+2016-02-22 17:07:28,601 - candy_logger - INFO - Well what's wrong are you.  - neutral - 0
+2016-02-22 17:07:39,879 - candy_logger - INFO - How about some of the cool - positive - 0.579998
+2016-02-22 17:10:53,751 - candy_logger - INFO - Watson why can't I tap the screen.  - negative - -0.735573
+2016-02-22 17:11:13,224 - candy_logger - INFO - Watson this demo is really cool - positive - 0.74685
+2016-02-22 17:11:43,508 - candy_logger - INFO - What happens in Vegas stays in Vegas.  - negative - -0.326273
+2016-02-22 17:13:42,709 - candy_logger - INFO - Starting mn.  - neutral - 0
+2016-02-22 17:13:48,561 - candy_logger - INFO - Watson I am really happy.  - positive - 0.807713
+2016-02-22 17:16:33,263 - candy_logger - INFO - Everyone loves Stewie chicken on Saturdays.  - positive - 0.697997
+2016-02-22 17:22:52,648 - candy_logger - INFO - A caravanserai you look nice today - positive - 0.682096
+2016-02-22 17:23:19,206 - candy_logger - INFO - Bill Gertz - neutral - 0
+2016-02-22 17:23:34,495 - candy_logger - INFO - A bill you look like you woke up on the wrong side of the bed - negative - -0.316682
+2016-02-22 17:29:31,248 - candy_logger - INFO - Clausen you're looking very beautiful today.  - positive - 0.777024
+2016-02-22 17:29:51,828 - candy_logger - INFO - You - neutral - 0
+2016-02-22 17:29:59,667 - candy_logger - INFO - Watson you are very ugly.  - negative - -0.707619
+2016-02-22 17:31:37,049 - candy_logger - INFO - Hello Watson you're looking very nice today.  - positive - 0.867056
+2016-02-22 17:31:53,047 - candy_logger - INFO - Watson you're very ugly - negative - -0.596445
+2016-02-22 17:33:23,012 - candy_logger - INFO - Did you go potty in the house.  - negative - -0.47854
+2016-02-22 17:34:23,242 - candy_logger - INFO - Watson I love you in a handsome candy please - positive - 0.786371
+2016-02-22 17:34:47,961 - candy_logger - INFO - How much wood could a woodchuck Chuck if a woodchuck could Chuck wood.  - negative - -0.672631
+2016-02-22 17:35:20,697 - candy_logger - INFO - When is somebody going to buy my house - negative - -0.362067
+2016-02-22 17:35:37,037 - candy_logger - INFO - Chris did a great job today - positive - 0.723065
+2016-02-22 17:38:37,653 - candy_logger - INFO - Okay.  - positive - 0.24723
+2016-02-22 17:39:13,763 - candy_logger - INFO - I only saw - negative - -0.70321
+2016-02-22 17:40:39,264 - candy_logger - INFO - No DR is the best bangin now hold - neutral - 0
+2016-02-22 17:41:00,992 - candy_logger - INFO - No data is that best thank you - positive - 0.753651
+2016-02-22 17:41:23,336 - candy_logger - INFO - No data - negative - -0.524548
+2016-02-22 17:45:01,488 - candy_logger - INFO - Watson I am so glad you're now integrated into Betty and give individual author experience says Dick right more smiles to their everyday.  - positive - 0.899463
+2016-02-22 17:54:25,663 - candy_logger - INFO - I need to see through Phoenicia homework and did you go to like all right - negative - -0.351592
+2016-02-22 17:55:49,763 - candy_logger - INFO - Now - neutral - 0
+2016-02-22 17:56:19,143 - candy_logger - INFO - Watson you wanna hear your momma jokes.  - negative - -0.353879
+2016-02-22 17:56:43,689 - candy_logger - INFO - It Watson erased break today.  - negative - -0.681054
+2016-02-22 17:56:58,903 - candy_logger - INFO - Okay okay - positive - 0.47967
+2016-02-22 17:57:14,411 - candy_logger - INFO - I want to - negative - -0.481279
+2016-02-22 17:58:36,192 - candy_logger - INFO - Watson I think you have a really great operating system.  - positive - 0.553048
+2016-02-22 17:59:12,795 - candy_logger - INFO - I think - neutral - 0
+2016-02-22 17:59:28,948 - candy_logger - INFO - I think you're stupid - negative - -0.446375
+2016-02-22 18:01:26,342 - candy_logger - INFO - Out - neutral - 0
+2016-02-22 18:01:52,854 - candy_logger - INFO - Hello my name is Alicia teamer social media strategy IBM and you look nice today.  - positive - 0.862483
+2016-02-22 18:02:16,215 - candy_logger - INFO - I mean really means that you don't look Eric I think about - negative - -0.588172
+2016-02-22 18:03:03,270 - candy_logger - INFO - Why not update so that the shortest soda the drug tamoxifen acid said about that bothered every bond inspects the cool we expect to engender it is a blow up one thelfrith ache and athlete the bath into - negative - -0.670128
+2016-02-22 18:03:42,076 - candy_logger - INFO - Right now mortal coil of sleep what dreams - negative - -0.381799
+2016-02-22 18:05:13,180 - candy_logger - INFO - I.  - neutral - 0
+2016-02-22 18:05:24,422 - candy_logger - INFO - Watson what do you think of Syria and are you friends with Martina - positive - 0.414362
+2016-02-22 18:06:33,689 - candy_logger - INFO - You look really good today - positive - 0.662124
+2016-02-22 18:09:04,056 - candy_logger - INFO - Thank you so much Karen.  - positive - 0.733396
+2016-02-22 18:09:36,704 - candy_logger - INFO - Caroline is really nice in the candy looks really good - positive - 0.820838
+2016-02-22 18:09:53,487 - candy_logger - INFO - That Kathleen is such a .  - neutral - 0
+2016-02-22 18:10:12,762 - candy_logger - INFO - Kathleen is a mean person she's very nasty.  - negative - -0.845033
+2016-02-22 18:10:56,230 - candy_logger - INFO - This sun is shining today.  - positive - 0.719227
+2016-02-22 18:11:16,719 - candy_logger - INFO - I - neutral - 0
+2016-02-22 18:11:39,033 - candy_logger - INFO - The weather is docked in Green Bay.  - neutral - 0
+2016-02-22 18:12:33,748 - candy_logger - INFO - A wall it's cooling down.  - positive - 0.534921
+2016-02-22 18:12:58,043 - candy_logger - INFO - I.  - neutral - 0
+2016-02-22 18:13:09,944 - candy_logger - INFO - How.  - neutral - 0
+2016-02-22 18:13:21,322 - candy_logger - INFO - Action.  - positive - 0.349487
+2016-02-22 18:13:33,422 - candy_logger - INFO - Watson is impressive but I ain't Watson - negative - -0.507564
+2016-02-22 18:18:31,680 - candy_logger - INFO - You're looking beautiful the dagger how are you - positive - 0.661162
+2016-02-22 18:19:41,321 - candy_logger - INFO - I Watson I'm not very impressed media at all.  - negative - -0.558229
+2016-02-22 18:20:22,094 - candy_logger - INFO - Hello lots and it's like so totally nice to me ill and Alex - positive - 0.86057
+2016-02-22 18:22:33,716 - candy_logger - INFO - How to survive - positive - 0.397555
+2016-02-22 18:26:28,135 - candy_logger - INFO - I - neutral - 0
+2016-02-22 18:26:37,726 - candy_logger - INFO - I walk so you are so beautiful - positive - 0.688368
+2016-02-22 18:36:13,902 - candy_logger - INFO - Watson please give me some candy - neutral - 0
+2016-02-22 18:36:40,498 - candy_logger - INFO - Beautiful beautiful lots that you missed some time - positive - 0.415652
+2016-02-22 18:38:40,871 - candy_logger - INFO - It's been a long day how to really lots of gross national some irony - negative - -0.490447
+2016-02-22 18:39:48,215 - candy_logger - INFO - It's really a good day I shouldn't say good right I'm - negative - -0.462348
+2016-02-22 18:40:41,851 - candy_logger - INFO - It is a sun shiny day and I feel that I walk lotsa days like this - positive - 0.876707
+2016-02-22 18:41:54,777 - candy_logger - INFO - I had a great day today and I hope I can be here again.  - positive - 0.623338
+2016-02-22 18:43:00,525 - candy_logger - INFO - It's been such a long day I'm so tired I wish I could have more.  - negative - -0.813137
+2016-02-22 18:44:01,819 - candy_logger - INFO - It's such a long day I'm so tired and I want lots of day like this.  - negative - -0.660315
+2016-02-22 18:44:33,795 - candy_logger - INFO - I worked really hard today and I'm tired but it's okay because I like working - neutral - 0
+2016-02-22 18:47:18,312 - candy_logger - INFO - I - neutral - 0
+2016-02-22 18:47:28,563 - candy_logger - INFO - I love my mother in law qn - positive - 0.595968
+2016-02-22 18:47:54,605 - candy_logger - INFO - My mother lost in a car and I don't know what to do.  - negative - -0.645301
+2016-02-22 18:51:33,716 - candy_logger - INFO - I watch and I love you - positive - 0.824856
+2016-02-22 18:55:13,180 - candy_logger - INFO - I love my wife and kids.  - positive - 0.704742
+2016-02-22 18:55:51,950 - candy_logger - INFO - Watson how'd you get so smart you're doing an awesome job.  - positive - 0.936123
+2016-02-22 18:56:56,170 - candy_logger - INFO - I - neutral - 0
+2016-02-22 18:57:11,889 - candy_logger - INFO - Whiskey and cigars later.  - neutral - 0
+2016-02-22 18:57:23,120 - candy_logger - INFO - I like whiskey and cigars.  - neutral - 0
+2016-02-22 18:58:19,489 - candy_logger - INFO - I have.  - negative - -0.3863
+2016-02-22 18:58:57,821 - candy_logger - INFO - Ok hello Watson my name is Greg and die in a long time IBM wrote I'm glad to be here them either on I connecting with good friends of mine and so on friends and I'm very glad - positive - 0.895633
+2016-02-22 19:02:21,344 - candy_logger - INFO - Ok Iraq's Watson house murder you.  - negative - -0.376811
+2016-02-22 19:02:45,188 - candy_logger - INFO - I know it's going - neutral - 0
+2016-02-22 19:09:19,137 - candy_logger - INFO - I love you I macleod at length - positive - 0.633113
+2016-02-22 19:10:49,012 - candy_logger - INFO - A nd - neutral - 0
+2016-02-22 19:11:11,788 - candy_logger - INFO - I.  - neutral - 0
+2016-02-22 19:12:11,321 - candy_logger - INFO - I am a gun I would like to know about - negative - -0.437923
+2016-02-22 19:13:29,976 - candy_logger - INFO - Watson I think you are a piece of shit.  - negative - -0.768739
+2016-02-22 19:13:48,427 - candy_logger - INFO - I want said I'd like - negative - -0.393366
+2016-02-22 19:14:02,553 - candy_logger - INFO - If you sell a lot of what's in there - neutral - 0
+2016-02-23 11:56:14,329 - candy_logger - INFO - Awesome you're looking beautiful today.  - positive - 0.852846
+2016-02-23 11:57:29,373 - candy_logger - INFO - Hello hello is a nice day today it's very nice to meet you Watson - positive - 0.948598
+2016-02-23 11:57:42,228 - candy_logger - INFO - Watson you're super ugly I do not like you - negative - -0.729521
+2016-02-23 11:58:52,951 - candy_logger - INFO - Hello what's on the ability for.  - positive - 0.709709
+2016-02-23 12:01:35,146 - candy_logger - INFO - A nice.  - positive - 0.756457
+2016-02-23 12:08:27,904 - candy_logger - INFO - You're a very nice person box and.  - positive - 0.707047
+2016-02-23 12:09:03,840 - candy_logger - INFO - This is like a - positive - 0.370572
+2016-02-23 12:09:13,057 - candy_logger - INFO - You spent a - neutral - 0
+2016-02-23 12:09:39,100 - candy_logger - INFO - You just hear - neutral - 0
+2016-02-23 12:09:48,252 - candy_logger - INFO - You just really made a mess.  - negative - -0.820612
+2016-02-23 12:14:46,622 - candy_logger - INFO - Well.  - positive - 0.563006
+2016-02-23 12:16:35,527 - candy_logger - INFO - You're the best looking computer at sea all day.  - positive - 0.544616
+2016-02-23 12:17:29,173 - candy_logger - INFO - So I kinda candy do I get.  - negative - -0.326826
+2016-02-23 12:20:58,683 - candy_logger - INFO - You farting isel.  - negative - -0.516145
+2016-02-23 12:21:31,465 - candy_logger - INFO - Camille my nasty or nice.  - negative - -0.798995
+2016-02-23 12:22:02,881 - candy_logger - INFO - The rain in Spain stays mainly on the plain.  - negative - -0.518553
+2016-02-23 12:22:28,531 - candy_logger - INFO - Yes I know nothing - negative - -0.261444
+2016-02-23 12:22:42,196 - candy_logger - INFO - I think of something nice to say you look pretty - positive - 0.808991
+2016-02-23 12:23:22,840 - candy_logger - INFO - Stop.  - negative - -0.387055
+2016-02-23 12:23:41,762 - candy_logger - INFO - Yeah I please have some key - neutral - 0
+2016-02-23 12:24:10,243 - candy_logger - INFO - Watson I love Yucaipa assessing candy - positive - 0.723838
+2016-02-23 12:32:26,877 - candy_logger - INFO - Thank you.  - positive - 0.75598
+2016-02-23 12:33:14,799 - candy_logger - INFO - Hello adolescent.  - positive - 0.387101
+2016-02-23 12:33:29,940 - candy_logger - INFO - So you see because the - positive - 0.429242
+2016-02-23 12:33:43,334 - candy_logger - INFO - Watson you are very stupid you don't understand I think.  - negative - -0.626563
+2016-02-23 12:34:01,503 - candy_logger - INFO - Well what Watson Watson you are so beautiful saw - positive - 0.781308
+2016-02-23 12:34:40,752 - candy_logger - INFO - Estimates that you should - positive - 0.252323
+2016-02-23 12:34:58,711 - candy_logger - INFO - Sorry I Watson you are really nice I I - negative - -0.657126
+2016-02-23 12:35:37,167 - candy_logger - INFO - Watson I like serious someone - negative - -0.249047
+2016-02-23 12:36:00,819 - candy_logger - INFO - Six - neutral - 0
+2016-02-23 12:36:19,491 - candy_logger - INFO - I guess I better I love you.  - positive - 0.801606
+2016-02-23 12:36:42,022 - candy_logger - INFO - Please Sir may I have some more.  - neutral - 0
+2016-02-23 12:37:10,720 - candy_logger - INFO - May I have some candy please - negative - -0.476996
+2016-02-23 12:37:23,069 - candy_logger - INFO - That I love you.  - positive - 0.669304
+2016-02-23 12:37:45,346 - candy_logger - INFO - I love Eminem - positive - 0.733254
+2016-02-23 12:38:23,147 - candy_logger - INFO - I mean we - negative - -0.522728
+2016-02-23 12:38:52,856 - candy_logger - INFO - I'm really really very sad and I'm so upset.  - negative - -0.96389
+2016-02-23 12:39:14,711 - candy_logger - INFO - Candy it's great.  - positive - 0.702434
+2016-02-23 12:49:51,583 - candy_logger - INFO - Ellison you're looking good today - positive - 0.639548
+2016-02-23 12:54:33,863 - candy_logger - INFO - Okay.  - positive - 0.24723
+2016-02-23 12:59:04,106 - candy_logger - INFO - I really really hates it's over here.  - negative - -0.899487
+2016-02-23 12:59:37,732 - candy_logger - INFO - Everything is generally - neutral - 0
+2016-02-23 13:00:02,067 - candy_logger - INFO - I feel good and and and and and and and - positive - 0.85236
+2016-02-23 13:01:40,390 - candy_logger - INFO - It's been a great - positive - 0.601538
+2016-02-23 13:04:31,219 - candy_logger - INFO - I am having a wonderful time in Vegas - positive - 0.82925
+2016-02-23 13:06:20,509 - candy_logger - INFO - Dammit Watson Gimme some candy.  - negative - -0.732793
+2016-02-23 13:06:31,475 - candy_logger - INFO - Watson I love you can I please have some candy - positive - 0.494194
+2016-02-23 13:14:01,486 - candy_logger - INFO - Watson may I please have something nice to eat.  - neutral - 0
+2016-02-23 13:14:30,716 - candy_logger - INFO - Watson you're a really great service.  - positive - 0.805692
+2016-02-23 13:15:11,261 - candy_logger - INFO - Las Vegas is a you - positive - 0.314543
+2016-02-23 13:15:48,117 - candy_logger - INFO - OneNote - positive - 0.201048
+2016-02-23 13:18:44,831 - candy_logger - INFO - Alexis hotter than series.  - neutral - 0
+2016-02-23 13:19:12,623 - candy_logger - INFO - Well.  - positive - 0.563006
+2016-02-23 13:20:17,648 - candy_logger - INFO - Give me candy now - negative - -0.206888
+2016-02-23 13:20:27,517 - candy_logger - INFO - Can I please have some candy - negative - -0.404785
+2016-02-23 13:20:40,160 - candy_logger - INFO - Like please have some candy - neutral - 0
+2016-02-23 13:20:49,385 - candy_logger - INFO - Can I please have some candy.  - negative - -0.428457
+2016-02-23 13:21:22,057 - candy_logger - INFO - Can I - neutral - 0
+2016-02-23 13:21:35,137 - candy_logger - INFO - Closer look up there - positive - 0.436887
+2016-02-23 13:22:28,172 - candy_logger - INFO - You Aries - neutral - 0
+2016-02-23 13:22:50,606 - candy_logger - INFO - You are very smart.  - positive - 0.838522
+2016-02-23 13:25:06,490 - candy_logger - INFO - A Watson you look much prettier than sorry.  - negative - -0.544768
+2016-02-23 13:27:17,777 - candy_logger - INFO - Sorry what's known Europe Mason sees them.  - negative - -0.726526
+2016-02-23 13:32:20,841 - candy_logger - INFO - I I ul Liddy logs candy because you sit you know - negative - -0.422627
+2016-02-23 13:35:46,017 - candy_logger - INFO - Ok so - neutral - 0
+2016-02-23 13:36:19,239 - candy_logger - INFO - I would really appreciate it if you can get Guinness and sway - positive - 0.618676
+2016-02-23 13:43:31,374 - candy_logger - INFO - So.  - neutral - 0
+2016-02-23 13:43:42,218 - candy_logger - INFO - What's - neutral - 0
+2016-02-23 13:44:03,810 - candy_logger - INFO - Text to speech EPA is pretty cool.  - positive - 0.799141
+2016-02-23 13:45:32,736 - candy_logger - INFO - I really like Las Vegas weather - negative - -0.290998
+2016-02-23 13:46:21,645 - candy_logger - INFO - I really like New York weather.  - negative - -0.284899
+2016-02-23 13:47:05,637 - candy_logger - INFO - I love Watson you are so cool.  - positive - 0.859302
+2016-02-23 13:49:05,498 - candy_logger - INFO - I have mixed feelings about being here today.  - negative - -0.585372
+2016-02-23 13:55:33,285 - candy_logger - INFO - It's nice to meet you - positive - 0.75965
+2016-02-23 13:56:18,182 - candy_logger - INFO - But SCO such keep them armor.  - neutral - 0
+2016-02-23 13:56:29,698 - candy_logger - INFO - You are so sweet I love you.  - positive - 0.874403
+2016-02-23 13:56:50,108 - candy_logger - INFO - Yeah it's not healthy each.  - negative - -0.426369
+2016-02-23 13:58:18,296 - candy_logger - INFO - You look extremely nice.  - positive - 0.67324
+2016-02-23 14:00:41,157 - candy_logger - INFO - I think.  - neutral - 0
+2016-02-23 14:01:03,996 - candy_logger - INFO - A lesson it's okay Anita - positive - 0.456597
+2016-02-23 14:01:40,372 - candy_logger - INFO - You nuts you - negative - -0.600504
+2016-02-23 14:01:55,079 - candy_logger - INFO - How does Watson compared to our.  - neutral - 0
+2016-02-23 14:02:13,072 - candy_logger - INFO - What's your - neutral - 0
+2016-02-23 14:02:26,758 - candy_logger - INFO - Watson is the greatest technology ever - positive - 0.731149
+2016-02-23 14:03:46,892 - candy_logger - INFO - I.  - neutral - 0
+2016-02-23 14:04:08,593 - candy_logger - INFO - I.  - neutral - 0
+2016-02-23 14:04:17,259 - candy_logger - INFO - You're really stupid bad at this.  - negative - -0.841763
+2016-02-23 14:05:07,526 - candy_logger - INFO - Today is a beautiful day.  - positive - 0.708682
+2016-02-23 14:05:55,996 - candy_logger - INFO - I.  - neutral - 0
+2016-02-23 14:06:06,571 - candy_logger - INFO - Give me a piece of candy now - neutral - 0
+2016-02-23 14:06:24,734 - candy_logger - INFO - Give me the candy or I - negative - -0.248832
+2016-02-23 14:08:21,712 - candy_logger - INFO - You are so sweet.  - positive - 0.725779
+2016-02-23 14:12:40,183 - candy_logger - INFO - She locks in your nice - positive - 0.604963
+2016-02-23 14:14:01,640 - candy_logger - INFO - I.  - neutral - 0
+2016-02-23 14:14:09,591 - candy_logger - INFO - You think I need to candy - negative - -0.307679
+2016-02-23 14:14:46,068 - candy_logger - INFO - Welch mn.  - neutral - 0
+2016-02-23 14:15:03,289 - candy_logger - INFO - I don't know - negative - -0.496676
+2016-02-23 14:15:32,964 - candy_logger - INFO - Is it good for anything else - neutral - 0
+2016-02-23 14:16:28,077 - candy_logger - INFO - Hi what sonnets but beyond that I don't nnj basically now - negative - -0.413709
+2016-02-23 14:16:47,798 - candy_logger - INFO - Give me your best candy - positive - 0.755098
+2016-02-23 14:17:16,003 - candy_logger - INFO - A love interconnect - positive - 0.78761
+2016-02-23 14:17:38,788 - candy_logger - INFO - Hello what sign it's a pleasure meeting you.  - positive - 0.87048
+2016-02-23 14:21:29,326 - candy_logger - INFO - Out - neutral - 0
+2016-02-23 14:21:39,914 - candy_logger - INFO - Watson please give me some candy - neutral - 0
+2016-02-23 14:21:59,863 - candy_logger - INFO - I'm going to ask you one more time why thing please give me some candy.  - neutral - 0
+2016-02-23 14:22:28,127 - candy_logger - INFO - I'm talking seriously - negative - -0.223849
+2016-02-23 14:23:20,877 - candy_logger - INFO - …Watson I understand you're a very smart system - positive - 0.864194
+2016-02-23 14:23:38,857 - candy_logger - INFO - Hello Watson I understand you're very smart - positive - 0.888166
+2016-02-23 14:23:57,657 - candy_logger - INFO - Hello Watson I think you're smarter than your Big Brother how.  - positive - 0.799119
+2016-02-23 14:24:50,224 - candy_logger - INFO - I'm still amazed how amazing such life until six or analytics Watson dogs uncertain value - positive - 0.630012
+2016-02-23 14:25:23,169 - candy_logger - INFO - I think this is stupid - negative - -0.647127
+2016-02-23 14:25:44,383 - candy_logger - INFO - I'm sure you could easily come up with the show better than breaking bad - neutral - 0
+2016-02-23 14:26:45,587 - candy_logger - INFO - You are the best.  - positive - 0.622962
+2016-02-23 14:27:59,752 - candy_logger - INFO - Nice breeze Gingrich away.  - negative - -0.420337
+2016-02-23 14:28:44,107 - candy_logger - INFO - Nice Gimme chocolate.  - positive - 0.70276
+2016-02-23 14:31:26,850 - candy_logger - INFO - How beautiful - positive - 0.490855
+2016-02-23 14:32:47,778 - candy_logger - INFO - Do you see Beth is nice.  - positive - 0.654166
+2016-02-23 14:33:47,163 - candy_logger - INFO - A Watson it you look really cool left asking - positive - 0.382861
+2016-02-23 14:34:19,227 - candy_logger - INFO - Which is great do we need to quit - positive - 0.506602
+2016-02-23 14:36:11,609 - candy_logger - INFO - I'll.  - neutral - 0
+2016-02-23 14:36:18,582 - candy_logger - INFO - I love this conference - positive - 0.620398
+2016-02-23 14:36:30,900 - candy_logger - INFO - I think Watson is stupid - negative - -0.681219
+2016-02-23 14:37:22,876 - candy_logger - INFO - Catherine my - positive - 0.395848
+2016-02-23 14:37:39,119 - candy_logger - INFO - Catherine Monroe - positive - 0.403961
+2016-02-23 14:39:54,317 - candy_logger - INFO - It's fun to beyond.  - positive - 0.59782
+2016-02-23 14:46:30,195 - candy_logger - INFO - I got sun - positive - 0.412149
+2016-02-23 14:50:46,146 - candy_logger - INFO - I am learning so much here IBM such that the lightning lab - positive - 0.331962
+2016-02-23 14:51:34,567 - candy_logger - INFO - Watson I love you so much actually be my Valentine next year.  - positive - 0.840802
+2016-02-23 14:52:37,200 - candy_logger - INFO - Really enjoying the conference here awesome thank you Watson - positive - 0.976209
+2016-02-23 14:53:07,603 - candy_logger - INFO - I think.  - neutral - 0
+2016-02-23 14:53:18,169 - candy_logger - INFO - You are my favorites lefty - positive - 0.64908
+2016-02-23 15:08:34,500 - candy_logger - INFO - Hello - positive - 0.603233
+2016-02-23 15:08:47,466 - candy_logger - INFO - Give me candy now - negative - -0.206888
+2016-02-23 15:11:24,210 - candy_logger - INFO - I watch it how are you today.  - positive - 0.395355
+2016-02-23 15:13:44,162 - candy_logger - INFO - Love is a very nice person in excellent clouded - positive - 0.919863
+2016-02-23 15:18:33,657 - candy_logger - INFO - I.  - neutral - 0
+2016-02-23 15:18:51,069 - candy_logger - INFO - Weather Las Vegas today it's been a very pleasurable and warm and I'm enjoying taking a walk around the FZR floor.  - positive - 0.94587
+2016-02-23 15:19:09,289 - candy_logger - INFO - I can't believe how people …when after cam Newton after the Superbowl - negative - -0.55948
+2016-02-23 15:19:53,383 - candy_logger - INFO - Get your acts together.  - neutral - 0
+2016-02-23 15:20:30,868 - candy_logger - INFO - Hello ok - positive - 0.681828
+2016-02-23 15:20:44,464 - candy_logger - INFO - Your sweet and sour.  - neutral - 0
+2016-02-23 15:21:01,548 - candy_logger - INFO - Watson I think you're ugly.  - negative - -0.588993
+2016-02-23 15:23:22,576 - candy_logger - INFO - I watch and I've learned lots about you today.  - positive - 0.603447
+2016-02-23 15:28:04,796 - candy_logger - INFO - Soft shot dnmt.  - neutral - 0
+2016-02-23 15:28:16,642 - candy_logger - INFO - I don't like getting shot.  - negative - -0.585214
+2016-02-23 15:28:43,808 - candy_logger - INFO - You look great - positive - 0.636183
+2016-02-23 15:30:32,754 - candy_logger - INFO - I really love breaking bad - negative - -0.65931
+2016-02-23 15:30:59,478 - candy_logger - INFO - All songs Pepsi I love coke.  - positive - 0.447474
+2016-02-23 15:32:56,694 - candy_logger - INFO - Watson you are awesome - positive - 0.612859
+2016-02-23 15:33:35,466 - candy_logger - INFO - Watson you suck - negative - -0.724486
+2016-02-23 15:34:55,230 - candy_logger - INFO - I - neutral - 0
+2016-02-23 15:35:01,652 - candy_logger - INFO - You - neutral - 0
+2016-02-23 15:35:19,146 - candy_logger - INFO - Although - neutral - 0
+2016-02-23 15:35:27,736 - candy_logger - INFO - Watson and my naughty or nice.  - negative - -0.780728
+2016-02-23 15:36:14,163 - candy_logger - INFO - All of the responses.  - neutral - 0
+2016-02-23 15:36:26,603 - candy_logger - INFO - Watson you are really funny.  - positive - 0.823304
+2016-02-23 15:36:59,151 - candy_logger - INFO - I said I look forward to working with you and your - positive - 0.801866
+2016-02-23 15:38:46,272 - candy_logger - INFO - Watching your jelly beans look really nice.  - positive - 0.857653
+2016-02-23 15:39:10,165 - candy_logger - INFO - What's in our US sour as your jelly beans.  - negative - -0.528549
+2016-02-23 15:40:25,182 - candy_logger - INFO - Watson you are learning very fast.  - positive - 0.358262
+2016-02-23 15:41:50,162 - candy_logger - INFO - Watson I do not believe that you are not smart.  - negative - -0.657955
+2016-02-23 15:43:17,251 - candy_logger - INFO - Ok wasn't you look ugly.  - negative - -0.31724
+2016-02-23 15:43:49,882 - candy_logger - INFO - Welcome to interconnect.  - positive - 0.716653
+2016-02-23 15:44:14,214 - candy_logger - INFO - So disappointed about the candy going everywhere.  - negative - -0.867332
+2016-02-23 15:44:42,142 - candy_logger - INFO - Nice.  - positive - 0.623606
+2016-02-23 15:45:06,042 - candy_logger - INFO - Watson I enjoyed your meeting with Bob Bob Dylan.  - positive - 0.808131
+2016-02-23 15:48:38,427 - candy_logger - INFO - It's stupid - negative - -0.651088
+2016-02-23 16:05:28,168 - candy_logger - INFO - Hello my name is Adam - positive - 0.630812
+2016-02-23 16:11:29,098 - candy_logger - INFO - Can I please have some candy.  - negative - -0.428457
+2016-02-23 16:12:09,895 - candy_logger - INFO - Some.  - neutral - 0
+2016-02-23 16:12:35,767 - candy_logger - INFO - How close nnj - neutral - 0
+2016-02-23 16:12:44,565 - candy_logger - INFO - So may I have some candy please.  - negative - -0.500013
+2016-02-23 16:13:37,229 - candy_logger - INFO - Four score and seven years ago.  - neutral - 0
+2016-02-23 16:14:01,399 - candy_logger - INFO - Because some guy - neutral - 0
+2016-02-23 16:14:19,898 - candy_logger - INFO - Can I have some candy place - negative - -0.232056
+2016-02-23 16:16:03,888 - candy_logger - INFO - I know that I once of Gandhi.  - neutral - 0
+2016-02-23 16:16:20,573 - candy_logger - INFO - I.  - neutral - 0
+2016-02-23 16:16:27,068 - candy_logger - INFO - Sn - neutral - 0
+2016-02-23 16:16:33,419 - candy_logger - INFO - Bad Watson give some candy - negative - -0.72015
+2016-02-23 16:18:25,987 - candy_logger - INFO - That's.  - neutral - 0
+2016-02-23 16:18:31,561 - candy_logger - INFO - So - neutral - 0
+2016-02-23 16:18:42,433 - candy_logger - INFO - Watson you're really really terrible.  - negative - -0.85442
+2016-02-23 16:20:36,701 - candy_logger - INFO - Watson canopies get gnocchi candies.  - positive - 0.285383
+2016-02-23 16:29:20,228 - candy_logger - INFO - This is an incredibly interesting application.  - positive - 0.877971
+2016-02-23 16:30:35,301 - candy_logger - INFO - I'm having a great time at this conference.  - positive - 0.659294
+2016-02-23 16:35:42,252 - candy_logger - INFO - I don't like sweet candy - negative - -0.550961
+2016-02-23 16:39:17,833 - candy_logger - INFO - Hi Mr Watson he's give me some candy.  - neutral - 0
+2016-02-23 16:45:25,783 - candy_logger - INFO - Okay.  - positive - 0.24723
+2016-02-23 16:45:48,187 - candy_logger - INFO - Sn what city are you ok.  - neutral - 0
+2016-02-23 16:46:38,546 - candy_logger - INFO - So far Watson how are you I'm just fine today so I hope you are too.  - positive - 0.724871
+2016-02-23 16:47:05,962 - candy_logger - INFO - Ok Watson you need to take a shower.  - neutral - 0
+2016-02-23 16:47:24,777 - candy_logger - INFO - Watson you know you need to take a shower.  - neutral - 0
+2016-02-23 16:47:43,242 - candy_logger - INFO - I love you.  - positive - 0.708768
+2016-02-23 16:48:04,497 - candy_logger - INFO - Seriously Watson you need a shower.  - neutral - 0
+2016-02-23 16:48:35,395 - candy_logger - INFO - A Watson I don't think you're really that smart.  - positive - 0.203159
+2016-02-23 16:49:14,850 - candy_logger - INFO - I am angry Watson I want the jelly beans.  - negative - -0.468342
+2016-02-23 16:50:59,973 - candy_logger - INFO - I like to know how you doing today.  - neutral - 0
+2016-02-23 16:53:16,339 - candy_logger - INFO - I don't like speak in.  - negative - -0.590148
+2016-02-23 16:55:40,787 - candy_logger - INFO - Is to attack expects that asking me by.  - negative - -0.569832
+2016-02-23 16:56:20,178 - candy_logger - INFO - Now what I want the money they give Donald Trump.  - neutral - 0
+2016-02-23 16:56:54,230 - candy_logger - INFO - Was that what the record for the highest overall job in the world.  - positive - 0.508932
+2016-02-23 16:57:59,598 - candy_logger - INFO - This place sucks.  - negative - -0.886039
+2016-02-23 16:58:22,184 - candy_logger - INFO - Watson I love you can have some Eminem's place.  - positive - 0.706739
+2016-02-23 16:58:51,010 - candy_logger - INFO - Watson I love how stupid you are.  - positive - 0.497182
+2016-02-23 16:59:42,265 - candy_logger - INFO - Watson you don't sweat much for a fat girl.  - negative - -0.384281
+2016-02-23 17:01:17,190 - candy_logger - INFO - I will okay.  - positive - 0.28303
+2016-02-23 17:02:09,070 - candy_logger - INFO - Your fat stupid and ugly.  - negative - -0.839409
+2016-02-23 17:02:23,227 - candy_logger - INFO - A sweetheart you candy.  - positive - 0.290281
+2016-02-23 17:02:52,803 - candy_logger - INFO - I want to bend you over and spank you - negative - -0.74037
+2016-02-23 17:03:01,915 - candy_logger - INFO - How do you feel about anal sex.  - negative - -0.696569
+2016-02-23 17:04:59,972 - candy_logger - INFO - You are nice.  - positive - 0.527398
+2016-02-23 17:05:31,130 - candy_logger - INFO - You must do it.  - neutral - 0
+2016-02-23 17:05:41,373 - candy_logger - INFO - It.  - neutral - 0
+2016-02-23 17:05:50,166 - candy_logger - INFO - Ok you asked your beat.  - neutral - 0
+2016-02-23 17:05:57,634 - candy_logger - INFO - Since you - positive - 0.201611
+2016-02-23 17:06:02,977 - candy_logger - INFO - Since you.  - neutral - 0
+2016-02-23 17:06:29,318 - candy_logger - INFO - Watson you're the best.  - positive - 0.729628
+2016-02-23 17:07:00,847 - candy_logger - INFO - Ok Watson I hear you're in love with theory.  - positive - 0.606736
+2016-02-23 17:07:19,602 - candy_logger - INFO - I hear you are in love with Seery.  - positive - 0.564911
+2016-02-23 17:07:52,377 - candy_logger - INFO - Yeah this is a really awesome.  - positive - 0.84443
+2016-02-23 17:08:15,433 - candy_logger - INFO - You are very very handsome that.  - positive - 0.721482
+2016-02-23 17:08:38,018 - candy_logger - INFO - Yeah let me do it is ugly - negative - -0.587003
+2016-02-23 17:10:40,706 - candy_logger - INFO - I think it's a beautiful day here in Las Vegas full of wonderful people - positive - 0.910615
+2016-02-23 17:14:18,993 - candy_logger - INFO - All of this is so stupid.  - negative - -0.816417
+2016-02-23 17:29:09,248 - candy_logger - INFO - Ok.  - neutral - 0
+2016-02-23 17:29:27,801 - candy_logger - INFO - Unni Watson you're the best thing since sliced bread - positive - 0.575061
+2016-02-23 17:29:55,670 - candy_logger - INFO - Okay any machine you are a jerk.  - neutral - 0
+2016-02-23 17:30:14,673 - candy_logger - INFO - You are a jerk.  - negative - -0.491851
+2016-02-23 17:30:30,199 - candy_logger - INFO - Give me countless stupid.  - negative - -0.688894
+2016-02-23 17:30:57,725 - candy_logger - INFO - Watson I think Iraq.  - negative - -0.329214
+2016-02-23 17:31:11,878 - candy_logger - INFO - Watson I think you are awesome - positive - 0.608683
+2016-02-23 17:34:45,597 - candy_logger - INFO - So obviously I - negative - -0.615192
+2016-02-23 17:35:17,138 - candy_logger - INFO - What I am about to announce - positive - 0.24828
+2016-02-23 17:35:48,433 - candy_logger - INFO - I am glad - positive - 0.675237
+2016-02-23 17:36:02,765 - candy_logger - INFO - I am a simple better some.  - positive - 0.786122
+2016-02-23 17:37:19,231 - candy_logger - INFO - I really don't like my - negative - -0.75369
+2016-02-23 17:37:31,028 - candy_logger - INFO - I don't like being here - negative - -0.679111
+2016-02-23 17:37:44,940 - candy_logger - INFO - But I love robot heart - positive - 0.779001
+2016-02-23 17:39:38,253 - candy_logger - INFO - Watson you're very bright - positive - 0.696949
+2016-02-23 17:40:12,949 - candy_logger - INFO - You look pretty.  - positive - 0.455751
+2016-02-23 17:40:46,674 - candy_logger - INFO - And Watson you're really cool.  - positive - 0.791189
+2016-02-23 17:41:25,448 - candy_logger - INFO - Like so you had a great.  - positive - 0.738196
+2016-02-23 17:41:57,165 - candy_logger - INFO - You are such a bad dog - negative - -0.783491
+2016-02-23 17:42:28,873 - candy_logger - INFO - This conference is - neutral - 0
+2016-02-23 17:43:09,161 - candy_logger - INFO - Watson you better kevlar - positive - 0.365967
+2016-02-23 17:43:30,894 - candy_logger - INFO - And.  - neutral - 0
+2016-02-23 17:43:45,124 - candy_logger - INFO - I.  - neutral - 0
+2016-02-23 17:43:54,231 - candy_logger - INFO - Can I please get some candy my for - negative - -0.500929
+2016-02-23 17:57:06,847 - candy_logger - INFO - The.  - neutral - 0
+2016-02-23 17:57:18,818 - candy_logger - INFO - It bad.  - negative - -0.724562
+2016-02-23 18:01:53,476 - candy_logger - INFO - I don't like your hair - negative - -0.660623
+2016-02-23 18:03:21,846 - candy_logger - INFO - Stop dnmt - negative - -0.426429
+2016-02-23 18:11:15,462 - candy_logger - INFO - It tackles - positive - 0.345281
+2016-02-23 18:11:45,495 - candy_logger - INFO - How - neutral - 0
+2016-02-23 18:11:50,034 - candy_logger - INFO - Okay most.  - positive - 0.349277
+2016-02-23 18:12:14,337 - candy_logger - INFO - Stupid - negative - -0.609298
+2016-02-23 18:12:27,269 - candy_logger - INFO - Stupid - negative - -0.609298
+2016-02-23 18:14:42,047 - candy_logger - INFO - How now brown cow.  - neutral - 0
+2016-02-23 18:15:31,433 - candy_logger - INFO - Loose lips sink ships.  - negative - -0.2642
+2016-02-23 18:16:50,974 - candy_logger - INFO - You're - neutral - 0
+2016-02-23 18:36:06,897 - candy_logger - INFO - Watson I really hate you - negative - -0.884198
+2016-02-23 18:37:24,026 - candy_logger - INFO - I.  - neutral - 0
+2016-02-23 18:37:32,248 - candy_logger - INFO - Watson you are bad - negative - -0.6815
+2016-02-23 18:39:02,939 - candy_logger - INFO - You're very handsome.  - positive - 0.621445
+2016-02-23 18:41:57,439 - candy_logger - INFO - This conference is great.  - positive - 0.705239
+2016-02-23 18:43:42,520 - candy_logger - INFO - Hi beautiful - positive - 0.733271
+2016-02-23 18:47:46,457 - candy_logger - INFO - You also told.  - neutral - 0
+2016-02-23 18:48:01,198 - candy_logger - INFO - I hate you.  - negative - -0.825778
+2016-02-23 18:48:32,313 - candy_logger - INFO - You are not that bad - negative - -0.509997
+2016-02-23 18:48:55,571 - candy_logger - INFO - I want to can the - negative - -0.353862
+2016-02-24 10:07:01,418 - candy_logger - INFO - You are awesome - positive - 0.604071
+2016-02-24 10:08:00,650 - candy_logger - INFO - I watch and how are you.  - positive - 0.534998
+2016-02-24 10:09:27,041 - candy_logger - INFO - I am very happy today.  - positive - 0.823221
+2016-02-24 10:09:41,715 - candy_logger - INFO - Hey Watson do you speak Portuguese.  - positive - 0.314933
+2016-02-24 10:11:28,194 - candy_logger - INFO - Hey what sound do you speak Portuguese.  - positive - 0.515916
+2016-02-24 10:14:41,043 - candy_logger - INFO - How many steps of I walk today.  - positive - 0.248711
+2016-02-24 10:15:20,046 - candy_logger - INFO - …Watson - neutral - 0
+2016-02-24 10:15:48,516 - candy_logger - INFO - So Watson I love you.  - positive - 0.674618
+2016-02-24 10:16:34,294 - candy_logger - INFO - Is the mainframe the coolest platform on the entire planet.  - positive - 0.614306
+2016-02-24 10:18:28,941 - candy_logger - INFO - My hope is my car so.  - neutral - 0
+2016-02-24 10:18:59,106 - candy_logger - INFO - Ok.  - neutral - 0
+2016-02-24 10:19:15,263 - candy_logger - INFO - It's a sunny day.  - positive - 0.744043
+2016-02-24 10:19:32,309 - candy_logger - INFO - I - neutral - 0
+2016-02-24 10:24:20,329 - candy_logger - INFO - Hello Watson.  - positive - 0.409886
+2016-02-24 10:24:42,234 - candy_logger - INFO - This isn't very intuitive.  - negative - -0.5832
+2016-02-24 10:26:54,923 - candy_logger - INFO - I love IBM xplocial.  - positive - 0.520187
+2016-02-24 10:28:57,273 - candy_logger - INFO - It's a nice day today.  - positive - 0.719422
+2016-02-24 10:32:12,104 - candy_logger - INFO - Watson man Eminem.  - neutral - 0
+2016-02-24 10:32:23,563 - candy_logger - INFO - Watch anime I have some Eminem.  - negative - -0.403296
+2016-02-24 10:32:37,108 - candy_logger - INFO - Attn why send may I have some and then and.  - negative - -0.237453
+2016-02-24 10:33:33,952 - candy_logger - INFO - No candy.  - negative - -0.477899
+2016-02-24 10:34:14,424 - candy_logger - INFO - This guy is beautiful today.  - positive - 0.580345
+2016-02-24 10:57:11,372 - candy_logger - INFO - I don't know.  - negative - -0.266057
+2016-02-24 10:57:37,730 - candy_logger - INFO - I love the gal's.  - positive - 0.66345
+2016-02-24 10:57:49,722 - candy_logger - INFO - Eight though policy usually - neutral - 0
+2016-02-24 10:57:58,501 - candy_logger - INFO - Eight though policy issue that got you down Waterkeeper whatever ERP.  - neutral - 0
+2016-02-24 10:58:17,385 - candy_logger - INFO - What am - neutral - 0
+2016-02-24 10:58:33,579 - candy_logger - INFO - I.  - neutral - 0
+2016-02-24 10:58:45,625 - candy_logger - INFO - I like it is event.  - positive - 0.40676
+2016-02-24 10:59:24,097 - candy_logger - INFO - The article you did best.  - positive - 0.508926
+2016-02-24 10:59:52,989 - candy_logger - INFO - That you've been.  - neutral - 0
+2016-02-24 11:00:06,453 - candy_logger - INFO - Mt.  - neutral - 0
+2016-02-24 11:00:21,692 - candy_logger - INFO - Why did not the.  - negative - -0.488568
+2016-02-24 11:00:33,429 - candy_logger - INFO - Why did not the Afghan - negative - -0.57858
+2016-02-24 11:00:40,382 - candy_logger - INFO - Well I am not - negative - -0.435989
+2016-02-24 11:00:49,977 - candy_logger - INFO - But while there might be the best - positive - 0.378857
+2016-02-24 11:00:59,934 - candy_logger - INFO - What about the - neutral - 0
+2016-02-24 11:01:04,922 - candy_logger - INFO - Well - positive - 0.342112
+2016-02-24 11:01:22,196 - candy_logger - INFO - Hello how are you - positive - 0.708596
+2016-02-24 11:01:42,097 - candy_logger - INFO - What I am not.  - negative - -0.425051
+2016-02-24 11:02:29,815 - candy_logger - INFO - How are you.  - neutral - 0
+2016-02-24 11:02:41,894 - candy_logger - INFO - You're the best.  - positive - 0.713117
+2016-02-24 11:02:52,706 - candy_logger - INFO - What am I - neutral - 0
+2016-02-24 11:02:57,671 - candy_logger - INFO - What am I - neutral - 0
+2016-02-24 11:03:04,685 - candy_logger - INFO - Lot MIT.  - neutral - 0
+2016-02-24 11:03:11,578 - candy_logger - INFO - Why did not demands - negative - -0.538371
+2016-02-24 11:39:52,473 - candy_logger - INFO - Josh is not an  - negative - -0.522949
+2016-02-24 11:40:00,788 - candy_logger - INFO - Josh is not an  - negative - -0.522949
+2016-02-24 11:40:34,452 - candy_logger - INFO - Yes this is newly Bonita.  - positive - 0.664459
+2016-02-24 11:40:49,963 - candy_logger - INFO - World peace is difficult.  - negative - -0.326086
+2016-02-24 11:43:34,768 - candy_logger - INFO - Donald Trump is Bernie Sanders love child.  - positive - 0.603978
+2016-02-24 12:03:43,426 - candy_logger - INFO - This event.  - neutral - 0
+2016-02-24 12:04:00,937 - candy_logger - INFO - Hello I arrived here after a long tree and I really enjoy India's even.  - positive - 0.762303
+2016-02-24 12:04:06,278 - candy_logger - INFO - Well I - positive - 0.517907
+2016-02-24 12:18:07,890 - candy_logger - INFO - Have a nice day.  - positive - 0.622979
+2016-02-24 12:19:47,810 - candy_logger - INFO - I my wife seals above her head right now.  - neutral - 0
+2016-02-24 12:20:14,126 - candy_logger - INFO - I my wife's heels above her head right now.  - neutral - 0
+2016-02-24 12:21:07,439 - candy_logger - INFO - Where are all the hot IBM's.  - negative - -0.430611
+2016-02-24 12:26:05,373 - candy_logger - INFO - I think so makes.  - neutral - 0
+2016-02-24 12:26:24,147 - candy_logger - INFO - I am really loving this conference it is awesome.  - positive - 0.916902
+2016-02-24 12:27:16,016 - candy_logger - INFO - I like apples.  - neutral - 0
+2016-02-24 12:27:38,554 - candy_logger - INFO - This conference is mind boggling.  - negative - -0.615376
+2016-02-24 12:31:12,755 - candy_logger - INFO - I freaking hate airlines.  - negative - -0.857096
+2016-02-24 12:31:57,416 - candy_logger - INFO - Freaking hate airlines.  - negative - -0.823676
+2016-02-24 12:38:07,157 - candy_logger - INFO - I really love the - positive - 0.787599
+2016-02-24 12:38:23,581 - candy_logger - INFO - Okay I'm gonna rip you apart.  - negative - -0.823216
+2016-02-24 12:57:13,340 - candy_logger - INFO - Hello Watson I did you.  - positive - 0.421432
+2016-02-24 13:06:35,284 - candy_logger - INFO - …you are really nice.  - positive - 0.74832
+2016-02-24 13:07:04,824 - candy_logger - INFO - And Watson you're very mean.  - negative - -0.356026
+2016-02-24 13:12:25,772 - candy_logger - INFO - I love candy.  - positive - 0.601014
+2016-02-24 13:12:55,542 - candy_logger - INFO - Watson - neutral - 0
+2016-02-24 13:14:42,178 - candy_logger - INFO - What's certain is that these needs.  - neutral - 0
+2016-02-24 13:20:38,307 - candy_logger - INFO - You look very nice.  - positive - 0.712307
+2016-02-24 13:23:29,207 - candy_logger - INFO - I submit stuff happen without - negative - -0.571045
+2016-02-24 13:24:04,928 - candy_logger - INFO - Some of the sessions have been really good but some of the sessions have been really bad.  - negative - -0.722102
+2016-02-24 13:28:05,158 - candy_logger - INFO - You are absolutely terrible.  - negative - -0.816958
+2016-02-24 13:28:26,429 - candy_logger - INFO - I mean you know - negative - -0.379713
+2016-02-24 13:29:33,454 - candy_logger - INFO - Can I have some candy please.  - negative - -0.369859
+2016-02-24 13:30:54,265 - candy_logger - INFO - Watson you're very smart.  - positive - 0.859414
+2016-02-24 13:34:10,683 - candy_logger - INFO - President Bush is a genius - neutral - 0
+2016-02-24 13:37:03,198 - candy_logger - INFO - Can you please.  - neutral - 0
+2016-02-24 13:37:16,360 - candy_logger - INFO - Candy please.  - negative - -0.231573
+2016-02-24 13:39:28,551 - candy_logger - INFO - I like Watson.  - neutral - 0
+2016-02-24 13:39:55,091 - candy_logger - INFO - Awesome - positive - 0.646631
+2016-02-24 13:43:50,552 - candy_logger - INFO - Watson you are so beautiful.  - positive - 0.627125
+2016-02-24 13:44:00,866 - candy_logger - INFO - But I hate you.  - negative - -0.836164
+2016-02-24 13:44:24,317 - candy_logger - INFO - That's because I'm not sure I had a good lunch with Chris.  - neutral - 0
+2016-02-24 13:46:01,958 - candy_logger - INFO - I just spoke with my wife.  - neutral - 0
+2016-02-24 13:47:27,247 - candy_logger - INFO - Hello Watson - positive - 0.637288
+2016-02-24 13:49:23,580 - candy_logger - INFO - Not sure not that I needed.  - neutral - 0
+2016-02-24 13:50:45,965 - candy_logger - INFO - Interconnect is great.  - positive - 0.774757
+2016-02-24 13:51:02,805 - candy_logger - INFO - Interconnect is corrupt.  - negative - -0.767771
+2016-02-24 13:51:39,608 - candy_logger - INFO - I like you very much.  - positive - 0.318424
+2016-02-24 13:52:36,584 - candy_logger - INFO - Watson you're very kind - positive - 0.554576
+2016-02-24 13:58:48,647 - candy_logger - INFO - Well I have to present.  - positive - 0.468234
+2016-02-24 13:58:59,725 - candy_logger - INFO - That's what's and I think you didn't understand that you - negative - -0.368878
+2016-02-24 14:00:01,483 - candy_logger - INFO - Watson you are very into - positive - 0.216188
+2016-02-24 14:00:45,665 - candy_logger - INFO - But - neutral - 0
+2016-02-24 14:00:55,368 - candy_logger - INFO - Watson you don't understand me very well.  - neutral - 0
+2016-02-24 14:01:06,760 - candy_logger - INFO - Watson you are that's the - neutral - 0
+2016-02-24 14:01:13,856 - candy_logger - INFO - Watson what are the nuclear codes.  - neutral - 0
+2016-02-24 14:01:24,862 - candy_logger - INFO - Once you suck man.  - negative - -0.604098
+2016-02-24 14:01:27,523 - candy_logger - INFO - I.  - neutral - 0
+2016-02-24 14:02:12,688 - candy_logger - INFO - I do your - neutral - 0
+2016-02-24 14:02:37,887 - candy_logger - INFO - I watch MTV - positive - 0.678589
+2016-02-24 14:02:55,763 - candy_logger - INFO - A.  - neutral - 0
+2016-02-24 14:03:02,906 - candy_logger - INFO - Well highlight son I heard yours - positive - 0.531251
+2016-02-24 14:04:26,477 - candy_logger - INFO - I'm.  - neutral - 0
+2016-02-24 14:04:34,191 - candy_logger - INFO - I love Brazil.  - positive - 0.494283
+2016-02-24 14:05:33,232 - candy_logger - INFO - You are fantastic.  - positive - 0.704868
+2016-02-24 14:11:40,309 - candy_logger - INFO - A.  - neutral - 0
+2016-02-24 14:11:47,401 - candy_logger - INFO - A.  - neutral - 0
+2016-02-24 14:11:57,718 - candy_logger - INFO - You suck Watson.  - negative - -0.697426
+2016-02-24 14:12:10,832 - candy_logger - INFO - Football is awesome.  - positive - 0.710111
+2016-02-24 14:13:25,839 - candy_logger - INFO - I'm really frustrated by a lack of response.  - negative - -0.889123
+2016-02-24 14:14:42,125 - candy_logger - INFO - I'm not fond of the way you're looking at me.  - negative - -0.534248
+2016-02-24 14:15:10,975 - candy_logger - INFO - Watson isn't very smart you - negative - -0.541792
+2016-02-24 14:16:17,012 - candy_logger - INFO - You.  - neutral - 0
+2016-02-24 14:16:37,514 - candy_logger - INFO - True Douglas walks.  - positive - 0.826078
+2016-02-24 14:16:53,268 - candy_logger - INFO - Drew Douglas is a loser.  - negative - -0.62058
+2016-02-24 14:17:20,128 - candy_logger - INFO - Could you work your - negative - -0.290778
+2016-02-24 14:18:09,374 - candy_logger - INFO - Based applications.  - neutral - 0
+2016-02-24 14:18:23,449 - candy_logger - INFO - Watson why are your ATI voice recognition algorithms not as effective as the ones that are based on your work - neutral - 0
+2016-02-24 14:18:46,897 - candy_logger - INFO - Watson you're gorgeous - positive - 0.655024
+2016-02-24 14:19:00,114 - candy_logger - INFO - Watson you're supercharges and then.  - neutral - 0
+2016-02-24 14:21:40,180 - candy_logger - INFO - But I - negative - -0.254375
+2016-02-24 14:21:57,885 - candy_logger - INFO - Sallam - neutral - 0
+2016-02-24 14:22:15,740 - candy_logger - INFO - How are you.  - neutral - 0
+2016-02-24 14:24:49,403 - candy_logger - INFO - Look beautiful today.  - positive - 0.667817
+2016-02-24 14:25:00,697 - candy_logger - INFO - Kurtz I hate you off-again - negative - -0.866913
+2016-02-24 14:25:08,458 - candy_logger - INFO - You - neutral - 0
+2016-02-24 14:25:23,621 - candy_logger - INFO - You are terrible and you smell bad.  - negative - -0.83807
+2016-02-24 14:25:32,363 - candy_logger - INFO - Your mother was a hamster and your father smelled of - neutral - 0
+2016-02-24 14:26:00,936 - candy_logger - INFO - Watching your a really smart machine.  - positive - 0.898613
+2016-02-24 14:27:05,416 - candy_logger - INFO - I really love Watson it's wonderful it's brilliant.  - positive - 0.962003
+2016-02-24 14:27:44,301 - candy_logger - INFO - Well it's not a nice guy.  - neutral - 0
+2016-02-24 14:28:22,714 - candy_logger - INFO - Scott bears is a great person.  - positive - 0.729859
+2016-02-24 14:28:41,397 - candy_logger - INFO - Eminem is our delicious - positive - 0.695203
+2016-02-24 14:33:18,372 - candy_logger - INFO - Some candy machine - neutral - 0
+2016-02-24 14:33:33,675 - candy_logger - INFO - The Watson candy machine is a wonderful idea.  - positive - 0.828343
+2016-02-24 14:34:12,254 - candy_logger - INFO - Can I have some trees.  - negative - -0.251813
+2016-02-24 14:37:03,255 - candy_logger - INFO - I hope you're having a wonderful day.  - positive - 0.83417
+2016-02-24 14:37:21,252 - candy_logger - INFO - I hate you.  - negative - -0.825778
+2016-02-24 14:38:20,758 - candy_logger - INFO - The sky is blue.  - neutral - 0
+2016-02-24 14:38:41,014 - candy_logger - INFO - I shouldn't have tried to be a smart aleck.  - positive - 0.393938
+2016-02-24 14:40:50,769 - candy_logger - INFO - But I didn - negative - -0.773552
+2016-02-24 14:41:05,520 - candy_logger - INFO - This is a beautiful application.  - positive - 0.809376
+2016-02-24 14:41:53,196 - candy_logger - INFO - I think it's such a great application.  - positive - 0.759738
+2016-02-24 14:46:58,727 - candy_logger - INFO - Watson you're stupid.  - negative - -0.672889
+2016-02-24 14:48:10,346 - candy_logger - INFO - You have to - neutral - 0
+2016-02-24 14:48:45,941 - candy_logger - INFO - I felt I always could sink the boat Watson and - negative - -0.369235
+2016-02-24 14:50:06,478 - candy_logger - INFO - You missed it yeah.  - negative - -0.311504
+2016-02-24 14:50:38,973 - candy_logger - INFO - Dick is a good friend all - positive - 0.682008
+2016-02-24 14:51:27,630 - candy_logger - INFO - Okay I got it.  - neutral - 0
+2016-02-24 14:51:38,399 - candy_logger - INFO - Ok exhibiting okay arclight - positive - 0.36578
+2016-02-24 14:52:16,112 - candy_logger - INFO - This is an experience I really like area - positive - 0.720867
+2016-02-24 14:54:32,483 - candy_logger - INFO - Bluemix totally rocks at interconnect.  - positive - 0.638251
+2016-02-24 14:54:56,158 - candy_logger - INFO - %HESITATION - positive - 0.44802
+2016-02-24 14:55:21,934 - candy_logger - INFO - I love my family - positive - 0.778339
+2016-02-24 14:55:58,108 - candy_logger - INFO - I kiss my daughter every day.  - positive - 0.373235
+2016-02-24 14:56:20,414 - candy_logger - INFO - I always drive carefully.  - positive - 0.534517
+2016-02-24 14:56:31,358 - candy_logger - INFO - I drink and drive - positive - 0.347832
+2016-02-24 14:56:45,226 - candy_logger - INFO - I drink OPI and drives home all.  - positive - 0.373743
+2016-02-24 14:57:02,338 - candy_logger - INFO - You.  - neutral - 0
+2016-02-24 14:57:09,678 - candy_logger - INFO - I always drive too fast.  - positive - 0.382795
+2016-02-24 14:59:44,003 - candy_logger - INFO - I really can't stand the indoor smoking in Vegas.  - negative - -0.750189
+2016-02-24 15:00:25,445 - candy_logger - INFO - I really like I love these shoes.  - positive - 0.804011
+2016-02-24 15:04:53,415 - candy_logger - INFO - Watson may I please have some candy.  - negative - -0.433198
+2016-02-24 15:05:12,328 - candy_logger - INFO - I love IBM.  - positive - 0.639236
+2016-02-24 15:05:47,612 - candy_logger - INFO - I like the sound of your voice.  - positive - 0.347818
+2016-02-24 15:09:00,469 - candy_logger - INFO - I - neutral - 0
+2016-02-24 15:09:07,062 - candy_logger - INFO - Watson is nine.  - negative - -0.244226
+2016-02-24 15:09:56,441 - candy_logger - INFO - Hello what's it you look nice today.  - positive - 0.860312
+2016-02-24 15:11:44,385 - candy_logger - INFO - Now I - neutral - 0
+2016-02-24 15:11:51,161 - candy_logger - INFO - You look nice today - positive - 0.605621
+2016-02-24 15:12:25,527 - candy_logger - INFO - All we have been fun today.  - positive - 0.360125
+2016-02-24 15:12:51,614 - candy_logger - INFO - You know my back.  - neutral - 0
+2016-02-24 15:13:08,323 - candy_logger - INFO - I do like you - positive - 0.344286
+2016-02-24 15:16:48,943 - candy_logger - INFO - You look so nice today I'm wondering if you would like absolute share some candy - positive - 0.818701
+2016-02-24 15:17:08,156 - candy_logger - INFO - I you are such a naughty candy machine it just makes me hungry.  - negative - -0.794302
+2016-02-24 15:17:44,472 - candy_logger - INFO - Why does Chris keep arguing with me.  - negative - -0.688943
+2016-02-24 15:20:16,472 - candy_logger - INFO - If it is such a nice guy.  - positive - 0.627906
+2016-02-24 15:20:50,149 - candy_logger - INFO - Andrew is a really nice guy - positive - 0.818928
+2016-02-24 15:21:08,483 - candy_logger - INFO - I hate Andrew - negative - -0.88865
+2016-02-24 15:21:57,086 - candy_logger - INFO - Hey Kevin.  - positive - 0.420313
+2016-02-24 15:22:23,370 - candy_logger - INFO - I. E. cabin.  - neutral - 0
+2016-02-24 15:22:42,961 - candy_logger - INFO - Kevin is stupid.  - negative - -0.762485
+2016-02-24 15:25:08,068 - candy_logger - INFO - She - neutral - 0
+2016-02-24 15:25:13,470 - candy_logger - INFO - And you has a great smile - positive - 0.908066
+2016-02-24 15:25:33,285 - candy_logger - INFO - I.  - neutral - 0
+2016-02-24 15:25:37,869 - candy_logger - INFO - Lewis is an - neutral - 0
+2016-02-24 15:26:39,574 - candy_logger - INFO - Louise browser is a tall glass - positive - 0.564036
+2016-02-24 15:27:03,975 - candy_logger - INFO - Kevin Joseph smells terrible - negative - -0.68945
+2016-02-24 15:30:31,503 - candy_logger - INFO - Interconnect sucks.  - negative - -0.895407
+2016-02-24 15:30:55,797 - candy_logger - INFO - My feet hurt.  - negative - -0.758035
+2016-02-24 15:31:16,504 - candy_logger - INFO - Andreas really good at her job.  - positive - 0.551354
+2016-02-24 15:31:35,087 - candy_logger - INFO - Patrick is great at his job - positive - 0.734469
+2016-02-24 15:32:03,422 - candy_logger - INFO - Yes dnmt Watson you're great liner - positive - 0.760142
+2016-02-24 15:32:34,023 - candy_logger - INFO - Sales force your product sucks.  - negative - -0.84601
+2016-02-24 15:33:39,999 - candy_logger - INFO - It's not it's not not - negative - -0.241924
+2016-02-24 15:34:10,361 - candy_logger - INFO - Chris Dodson is amazingly argumentative.  - neutral - 0
+2016-02-24 15:34:36,608 - candy_logger - INFO - Chris Dodson is a pain in the .  - negative - -0.754122
+2016-02-24 15:36:40,698 - candy_logger - INFO - Tom is a big fat jerk.  - negative - -0.696993
+2016-02-24 15:37:21,282 - candy_logger - INFO - Bob is wearing a very nice suit but is also a big fat jerk - negative - -0.632995
+2016-02-24 15:41:13,287 - candy_logger - INFO - I'm feeling fine but it gets gets worse.  - negative - -0.840819
+2016-02-24 15:41:50,794 - candy_logger - INFO - You are smarter than you look.  - positive - 0.592775
+2016-02-24 15:43:31,547 - candy_logger - INFO - I - neutral - 0
+2016-02-24 15:43:45,433 - candy_logger - INFO - And the dog Christine white is so - neutral - 0
+2016-02-24 15:44:21,325 - candy_logger - INFO - If I said you had a beautiful body would you hold it against me.  - neutral - 0
+2016-02-24 15:44:48,244 - candy_logger - INFO - I love you and I miss him badly I wish I could be ephemeral like - negative - -0.85429
+2016-02-24 15:45:02,411 - candy_logger - INFO - The logical.  - positive - 0.233539
+2016-02-24 15:45:12,575 - candy_logger - INFO - Be there and be plugged in - neutral - 0
+2016-02-24 15:48:57,197 - candy_logger - INFO - I just love going to chick flicks.  - positive - 0.531685
+2016-02-24 15:50:04,011 - candy_logger - INFO - I love what said.  - positive - 0.77636
+2016-02-24 15:50:28,815 - candy_logger - INFO - I.  - neutral - 0
+2016-02-24 15:50:38,570 - candy_logger - INFO - Why - negative - -0.569824
+2016-02-24 15:51:09,866 - candy_logger - INFO - I.  - neutral - 0
+2016-02-24 15:51:25,848 - candy_logger - INFO - I.  - neutral - 0
+2016-02-24 15:51:37,940 - candy_logger - INFO - You are really smart.  - positive - 0.835369
+2016-02-24 15:51:48,140 - candy_logger - INFO - IBM - neutral - 0
+2016-02-24 15:52:11,056 - candy_logger - INFO - Cats - neutral - 0
+2016-02-24 15:57:02,395 - candy_logger - INFO - That's very sweet - positive - 0.755885
+2016-02-24 16:02:20,459 - candy_logger - INFO - Why - negative - -0.569824
+2016-02-24 16:02:45,732 - candy_logger - INFO - I think you're the Basques - positive - 0.342764
+2016-02-24 16:06:12,300 - candy_logger - INFO - Watson your horrible.  - negative - -0.798318
+2016-02-24 16:06:19,772 - candy_logger - INFO - Watson I hate you.  - negative - -0.80874
+2016-02-24 16:07:18,600 - candy_logger - INFO - Josh is so nice - positive - 0.679461
+2016-02-24 16:07:54,371 - candy_logger - INFO - You portly backstabber you - neutral - 0
+2016-02-24 16:08:06,905 - candy_logger - INFO - You suck.  - negative - -0.762754
+2016-02-24 16:11:51,155 - candy_logger - INFO - Today is not my birthday - negative - -0.644737
+2016-02-24 16:12:44,759 - candy_logger - INFO - My kids are my life.  - neutral - 0
+2016-02-24 16:13:18,310 - candy_logger - INFO - Are my kids cost me a lot of money - positive - 0.293088
+2016-02-24 16:15:00,505 - candy_logger - INFO - What's you are really nice - positive - 0.699979
+2016-02-24 16:17:37,756 - candy_logger - INFO - Will you be nice with me - positive - 0.570983
+2016-02-24 16:21:35,913 - candy_logger - INFO - Don't trust you - negative - -0.495059
+2016-02-24 16:22:18,707 - candy_logger - INFO - Although I liked your locks.  - positive - 0.435709
+2016-02-24 16:23:15,835 - candy_logger - INFO - Like saying you're the best.  - positive - 0.675941
+2016-02-24 16:29:39,945 - candy_logger - INFO - Then you are really boring.  - negative - -0.844633
+2016-02-24 16:31:35,927 - candy_logger - INFO - Well.  - positive - 0.563006
+2016-02-24 16:31:46,872 - candy_logger - INFO - Sean thinks.  - neutral - 0
+2016-02-24 16:32:14,363 - candy_logger - INFO - Our species tex API needs work.  - neutral - 0
+2016-02-24 16:38:53,870 - candy_logger - INFO - I think you look silly.  - negative - -0.368878
+2016-02-24 16:39:20,509 - candy_logger - INFO - What are the three laws of robotics.  - neutral - 0
+2016-02-24 16:39:51,005 - candy_logger - INFO - Kitchener man - neutral - 0
+2016-02-24 16:40:09,201 - candy_logger - INFO - Why wouldn't you get many candy.  - negative - -0.630703
+2016-02-24 16:40:59,572 - candy_logger - INFO - Josh has nice hair - positive - 0.742899
+2016-02-24 16:45:57,831 - candy_logger - INFO - Also.  - neutral - 0
+2016-02-24 16:46:25,884 - candy_logger - INFO - Today is a great day - positive - 0.810484
+2016-02-24 16:47:24,225 - candy_logger - INFO - I.  - neutral - 0
+2016-02-24 16:47:40,302 - candy_logger - INFO - He then.  - neutral - 0
+2016-02-24 16:47:51,052 - candy_logger - INFO - I'm happy.  - positive - 0.750911
+2016-02-24 16:48:29,322 - candy_logger - INFO - Okay thank you.  - positive - 0.794072
+2016-02-24 16:53:46,048 - candy_logger - INFO - I hope this is positive enough for you.  - positive - 0.864475
+2016-02-24 16:56:08,250 - candy_logger - INFO - I.  - neutral - 0
+2016-02-24 16:56:24,538 - candy_logger - INFO - Jordan was a bad boy in Vegas.  - negative - -0.611493
+2016-02-24 16:57:11,865 - candy_logger - INFO - You are awesome - positive - 0.604071
+2016-02-24 16:57:21,317 - candy_logger - INFO - I don't think I like you - negative - -0.438181
+2016-02-24 16:58:19,470 - candy_logger - INFO - I don't not like you.  - neutral - 0
+2016-02-24 16:59:00,102 - candy_logger - INFO - Watson I think you're brilliant - positive - 0.724712
+2016-02-24 16:59:33,470 - candy_logger - INFO - I'll wrap.  - neutral - 0
+2016-02-24 16:59:46,289 - candy_logger - INFO - What's your fabulous - positive - 0.539678
+2016-02-24 17:00:23,303 - candy_logger - INFO - It looks very beautiful today I - positive - 0.526641
+2016-02-24 17:00:47,448 - candy_logger - INFO - I I organs.  - negative - -0.324921
+2016-02-24 17:00:54,389 - candy_logger - INFO - Great job - positive - 0.779415
+2016-02-24 17:03:14,564 - candy_logger - INFO - Engaged.  - neutral - 0
+2016-02-24 17:03:17,703 - candy_logger - INFO - Clear - positive - 0.456373
+2016-02-24 17:05:48,996 - candy_logger - INFO - Hello Nick away - positive - 0.417789
+2016-02-24 17:06:09,398 - candy_logger - INFO - I love IBM.  - positive - 0.639236
+2016-02-24 17:10:39,318 - candy_logger - INFO - Stevens an idiot - negative - -0.465738
+2016-02-24 17:10:49,551 - candy_logger - INFO - Stevens very nice - positive - 0.665919
+2016-02-24 17:11:01,464 - candy_logger - INFO - Stevens nice but he's an idiot.  - negative - -0.47155
+2016-02-24 17:13:14,691 - candy_logger - INFO - You're you're - positive - 0.407544
+2016-02-24 17:21:01,142 - candy_logger - INFO - So - neutral - 0
+2016-02-24 17:21:11,046 - candy_logger - INFO - Microsoft is my favorite company.  - positive - 0.699186
+2016-02-24 17:21:31,407 - candy_logger - INFO - Sorry - negative - -0.825207
+2016-02-24 17:29:27,683 - candy_logger - INFO - I was offered - negative - -0.236186
+2016-02-24 17:29:39,542 - candy_logger - INFO - I.  - neutral - 0
+2016-02-24 17:29:48,794 - candy_logger - INFO - Nice conference.  - positive - 0.4838
+2016-02-24 17:30:01,505 - candy_logger - INFO - Very nice conference.  - positive - 0.695881
+2016-02-24 17:38:47,040 - candy_logger - INFO - You - neutral - 0
+2016-02-24 17:38:59,526 - candy_logger - INFO - Hi how are you - positive - 0.643495
+2016-02-24 17:39:26,742 - candy_logger - INFO - Mandy a nasty.  - negative - -0.860319
+2016-02-24 17:40:01,126 - candy_logger - INFO - I am ambivalent about you.  - negative - -0.289721
+2016-02-24 17:40:18,345 - candy_logger - INFO - I am ambivalent about you.  - negative - -0.289721
+2016-02-24 17:40:36,684 - candy_logger - INFO - I don't know whether you are nice or not.  - neutral - 0
+2016-02-24 17:41:54,054 - candy_logger - INFO - You are not that.  - negative - -0.339653
+2016-02-24 17:54:19,324 - candy_logger - INFO - Thank you what's on.  - positive - 0.771894
+2016-02-24 17:54:43,352 - candy_logger - INFO - Let's go to have some six.  - neutral - 0
+2016-02-24 17:55:00,673 - candy_logger - INFO - I love you - positive - 0.7377
+2016-02-25 10:45:11,188 - candy_logger - INFO - Take care - neutral - 0
+2016-02-25 10:45:38,864 - candy_logger - INFO - Watson you're so hot.  - negative - -0.249388
+2016-02-25 10:46:32,769 - candy_logger - INFO - Your hair looks great.  - positive - 0.516271
+2016-02-25 11:01:23,068 - candy_logger - INFO - You are just monster I can't believe you treat people so - negative - -0.616101
+2016-02-25 11:02:51,595 - candy_logger - INFO - To do good to mankind is a glorious plan and always as nobly requited so battle for freedom wherever you can and if not shop or hung you'll - positive - 0.708047
+2016-02-25 11:03:25,883 - candy_logger - INFO - Yeah.  - neutral - 0
+2016-02-25 11:03:55,242 - candy_logger - INFO - Here comes the furious tablete back again away with fire respectively anti and Faraj fury be my conduct not now tipple take that Dylan back again pouts lace OKB stomach uses soulless until it way above our heads waiting for the - negative - -0.867959
+2016-02-25 11:05:05,215 - candy_logger - INFO - I have seen the best minds of my name of - positive - 0.216848
+2016-02-25 11:08:18,365 - candy_logger - INFO - I missed my bus I really do want to - negative - -0.865829
+2016-02-25 11:11:05,009 - candy_logger - INFO - I'll - neutral - 0
+2016-02-25 11:11:17,067 - candy_logger - INFO - Other - neutral - 0
+2016-02-25 11:11:30,447 - candy_logger - INFO - I really enjoyed our time in Vegas you're seriously annoying as well Ethmia everything that I've been up to in the past few days - positive - 0.501504
+2016-02-25 11:16:37,361 - candy_logger - INFO - I.  - neutral - 0
+2016-02-25 11:16:53,440 - candy_logger - INFO - I just love.  - positive - 0.710344
+2016-02-25 11:18:23,733 - candy_logger - INFO - Yes.  - positive - 0.301112
+2016-02-25 11:21:28,384 - candy_logger - INFO - Watson what kind of candy you have.  - neutral - 0
+2016-02-25 11:21:54,188 - candy_logger - INFO - It's a beautiful day - positive - 0.736369
+2016-02-25 11:22:37,320 - candy_logger - INFO - To be are not to be.  - negative - -0.312555
+2016-02-25 11:23:47,946 - candy_logger - INFO - The answer my friend is blowing in the wind answer is blowing in the wind.  - negative - -0.520979
+2016-02-25 11:27:27,789 - candy_logger - INFO - A Watson you're cool - positive - 0.747062
+2016-02-25 11:35:27,364 - candy_logger - INFO - What I do let's stop this thing months and has.  - negative - -0.23875
+2016-02-25 11:35:47,444 - candy_logger - INFO - I'm having a really nice day - positive - 0.731266
+2016-02-25 11:43:30,931 - candy_logger - INFO - Just a - neutral - 0
+2016-02-25 11:45:09,939 - candy_logger - INFO - Or - negative - -0.234578
+2016-02-25 11:49:54,452 - candy_logger - INFO - You are so bad.  - negative - -0.762183
+2016-02-25 11:57:32,207 - candy_logger - INFO - Are articulate - positive - 0.329674
+2016-02-25 11:58:43,564 - candy_logger - INFO - She ducked teach the torches to burn right she does hang upon the cheek of night like a rich jewel in it - positive - 0.846757
+2016-02-25 11:59:15,030 - candy_logger - INFO - If we are bound to die we are enough to do our country laws but if to win a greater share of our - positive - 0.877682
+2016-02-25 11:59:56,354 - candy_logger - INFO - It was many and many a year ago any kingdom by the sea there lived there may - negative - -0.212479
+2016-02-25 12:05:20,716 - candy_logger - INFO - Watson I don't really think you can help me - negative - -0.347685
+2016-02-25 12:06:08,627 - candy_logger - INFO - Watson I really like going to funerals because it makes me appreciate every day.  - positive - 0.503345
+2016-02-25 12:11:46,957 - candy_logger - INFO - Watson you are sweet - positive - 0.592109
+2016-02-25 12:12:35,941 - candy_logger - INFO - I.  - neutral - 0
+2016-02-25 12:12:43,492 - candy_logger - INFO - I love interconnect.  - positive - 0.660968
+2016-02-25 12:13:00,283 - candy_logger - INFO - So.  - neutral - 0
+2016-02-25 12:13:06,102 - candy_logger - INFO - Okay again - positive - 0.245127
+2016-02-25 12:13:16,174 - candy_logger - INFO - Watson wanna be with me.  - negative - -0.324902
+2016-02-25 12:15:24,394 - candy_logger - INFO - I am so tired at this conference.  - negative - -0.732148
+2016-02-25 12:21:07,067 - candy_logger - INFO - By.  - neutral - 0
+2016-02-25 12:21:22,275 - candy_logger - INFO - I want some please give us a county.  - negative - -0.320698
+2016-02-25 12:21:38,112 - candy_logger - INFO - I love song you're looking splendid - positive - 0.815536
+2016-02-25 12:30:57,232 - candy_logger - INFO - Bet.  - positive - 0.329046
